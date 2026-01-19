@@ -6,7 +6,7 @@ body {
 }
 
 #hero {
-    background-image: url("/galaxy.webp");
+    background-image: url("./galaxy.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
